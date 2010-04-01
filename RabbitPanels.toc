@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Rabbit Panels
+## Author: Rabbit
+## X-Email: rabbit.magtheridon@gmail.com
+## OptionalDeps: RabbitCommon, RabbitTextures, RabbitColors
+
+gear.lua
